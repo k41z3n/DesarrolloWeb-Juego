@@ -1,3 +1,2 @@
 # Desarrollo Web
 # Juego
-# Lermit Tovar
